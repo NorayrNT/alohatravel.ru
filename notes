@@ -1,0 +1,79 @@
+* To do list
+    - video
+         - https://www.youtube.com/watch?v=CLK5WJUAnBc  try later
+         - https://www.youtube.com/watch?v=TH0w12HcYwE  try later
+         - https://www.youtube.com/watch?v=NLDdrCujO18  renderforest staff
+         - https://www.youtube.com/watch?v=yr900o2qLOw  yerevan at night
+         - https://www.youtube.com/watch?v=eGt-doJgr6c  yerevan 
+         - https://www.youtube.com/watch?v=vfECCTrEHbE  yerevan at night 2
+
+         - https://www.youtube.com/watch?v=e54ilw2vgfQ  Philipines travel goPro
+         - https://www.youtube.com/watch?v=9GvTYd5hG_g  4 minute vacation
+         - https://www.youtube.com/watch?v=w3maWrDD5_M  Turks and Caicos
+    - terms and policies
+    - individual tours stars other table (cons.)
+    - book now (create online book for every book service)
+    - insta feed
+    - add resorts sightseeing places in armenia (cons. about blog) 
+    - create page for blog with videos and links to youtube or blog
+    - web AR 
+    - a.h.f.   
+
+ * Server 194.67.90.17
+    - ls /var/www/www-root/data/www/alohanews.ru/
+
+
+* Photo sizes :
+    - tour types ( 280 * 280 )
+    - Incoming type tours ( 360 * 200 )
+    - Incoming tour days slider( 380 * 220 )
+    - Outgoing tour slider ( 380 * 220 )
+    - Outgoings ( 360 * 200 )
+    - Extreme (col-6 - 812 * 350) (col-md-3 406 * 228)
+    - services (262 * 200)
+    - cars ( 500 * 500)
+    - apartments (500 * 500)
+
+* Page description
+    - h4 , h5
+* About us page
+    - h6 , p
+* Why we
+    -  p , p 
+
+* Tour Types Texts
+     - outgoing  - find the world within you
+     - incoming  - discover armenia
+     - individual - fill your day with happiness
+     - extreme - make your journey unforgettable
+
+*Font family
+    - 'Lato', sans-serif
+
+* jivochat
+    - aloohatravel@gmail.com Chatonlinealoohaarm777
+* Eloquent filter 
+    - https://dev.to/mehdifathi/introduce-eloquent-filter-2-in-laravel-12g5  try
+
+* More laravel  methods
+    - https://webdevetc.com/blog/laravel-features-you-may-not-know-about  try
+
+* Currency package Torann
+    - https://medium.com/@bastones/currency-conversions-and-localised-pricing-in-laravel-projects-556cfc23bbd2
+
+* Sharer js - social sharing
+    - https://ellisonleao.github.io/sharer.js/
+
+* Font Families
+    - AdelleSansArm-Regular",sans-serif
+    - 'proxima-nova',sans-serif
+    - font-family: 'Open Sans', sans-serif;
+    - font-family: 'Lato', sans-serif;
+    - font-family: 'Baloo Tamma 2', cursive; 
+
+* To be read 
+    - Explain mysql statement
+    - server enable cache (work with cache in production mode )
+
+* Facebook APP ID 625744214989532
+

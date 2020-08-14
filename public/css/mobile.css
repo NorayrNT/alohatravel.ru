@@ -1,0 +1,310 @@
+@media only screen and (max-width:768px) {
+    
+    /* index page */
+    #top_nav {
+        display: none;
+    }
+    #top_mobile {
+        display: block;
+    }
+    #main_body {
+        background-image: none;
+        padding: 0px;
+    }
+    #why_we {
+        display: none;
+    }
+    .why_we:nth-child(2) {
+        margin-top: 30px;
+    }
+    .why_we > h4,.ind_block,
+    .why_we >h5, .we_text, 
+    .why_we:first-child p,.tour_img,
+    .tour_overlay {
+        width: 100%;
+    }
+    .img_block img {
+        height: auto;
+    }
+    .best_tour {
+        padding:0px 5px;
+    }
+    .price_block {
+        left: 5px;
+    }
+    #services_block > .container > .row,
+    #best_tours > .container > .row {
+        margin: 0px;
+    }    
+    .tour_block,
+    #services_block > .container > .row > .col-md-3,
+    #footer_block > .container > .row > .col-md-3,
+    #best_tours > .container > .row > .col-12 {
+        padding: 0px;
+    }
+    .ser_desc {
+        left: 0;
+        right: 0;
+    }
+    #footer_block {
+        padding: 70px 0px 15px 0px;
+    }
+    #footer_block > .container > .row {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    /* About armenia */
+    .rep_video > video {
+        height: 250px;
+    }
+    .arm_list > ul > li {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    /* Cars' service */
+    #days_table  {
+        overflow-x: auto;
+        display: none;
+    }
+    .car_characters > p {
+        text-align: center;
+    }
+    .car_book_btn { 
+        margin: 0 auto;
+    }
+    .car_name > h5 {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .name_separator {
+        width: 70%;
+        margin: 10px auto;
+    }
+    .car_info > .row > .col-sm-12 > ul > li {
+        width: 100%;
+    }
+    .tbl_1,.tbl_2,.tbl_3 {
+        margin: 0 auto;
+    };
+    .car_info > .row > .col-sm-12 > ul > li:not(:last-child):after {
+        content: '';
+        width: 0px;
+        height: 0px;
+        background-color: none;
+    }
+    .car_info > .row > .col-sm-12 {
+        padding: 0px !important;
+    }
+    .cars_block > .col-sm-12:first-child {
+        padding-left: 15px !important;
+    }
+    #cars_rental .container,
+    .cars_block > .col-sm-12:first-child,
+    .cars_block > .col-sm-12:nth-child(2),
+    .car_mobile  {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .cars_block,
+    .car_info > .row {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .car_info > .row > .col-12 > ul > li:after {
+        content: none !important;
+        width: 0px !important;
+        height: 0px !important;
+    }
+    #apartment_rental > .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .ex_intro > h5 {
+        font-size: 20px;
+    }
+    .apartment_filters,.ap_block {
+        margin: 0px;
+    }
+    .ap_block > .col-12 {
+        padding: 0px;
+    }
+    .apartment_filters > .col-12:first-child {
+        margin-bottom: 10px !important;
+    }
+    .ap_filters > li {
+        width: 50%;
+    }
+    .man_tbl {
+        overflow-x: auto;
+    }
+    #incoming_block > .container {
+        padding-left: 15px; 
+        padding-right: 15px; 
+    }
+    #no_margin {
+        margin:0px;
+    }
+    #no_margin > .col-sm-6 {
+        padding: 0px;
+    }
+    .intro_text > h3 {
+        font-size: 18px;
+    }
+    .tour_map_block {
+        margin: 5px 0 0 0; 
+    }
+    .tour_map_block > iframe {
+        height: 250px !important;
+    }
+    .includes > li {
+        list-style-type: none !important;
+        text-align: center;        
+    }
+    #out_block {
+        padding-top: 0px;
+    }
+    #out_block > .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .out_ind,#extreme_tours > .container-fluid {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    #userAccount > .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .userMain > form input,.userPassword > form input {
+        width: 100%;
+    }
+    .ac_update {
+        width: 100%;
+    }
+    .mobile_car_tbl {
+        display: block;
+    }
+
+    /* Footer */
+    #footer_block {
+        border-top: 1px solid transparent;
+    }
+    #footer_block > .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .foot_logo > img {
+        border-bottom: 1px solid transparent;
+    }
+    .foot_logo {
+        text-align: center;
+        border-bottom: 1px solid #e6e6e6;
+    }
+    .footer_icons {
+        margin: 0 auto;
+        width: 100%;
+        max-width: 100%;
+    }
+    .footer_item {
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    .footer_item:first-child {
+        margin-bottom: 35px;
+    }
+    .footer_item > ul > li:nth-child(1) {
+        color: #404040;
+    }
+    
+    /* Incoming tours */
+    #incoming_tour > .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }   
+    #incoming_tour_types > .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    } 
+    
+    /* Contacts */
+    #contact_page {
+        margin: 0px;
+    }
+    .contact_us_form > form > .form-group {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .contact_us_form input, 
+    .contact_us_form textarea,
+    .contact_send_btn {
+        transform: translate(0);
+        margin-left: 0px;
+    }
+    .contact_right > iframe {
+        height: 250px;
+    }
+
+    /* Share Icons */
+    .share_icons > h6 {
+        font-size: 21px;
+    }
+
+    /* Extreme tours */
+    .ex_item.col-md-6 > .ex_img_block > img {
+        height: 228px;
+    }
+
+}
+@media only screen and (min-width:576px) and (max-width:768px) {
+    .ser_desc {
+        left: 15px;
+        right: 15px;
+    }
+    .car_info > .row > .col-sm-12 > ul > li:not(:last-child):after {
+        content: '';
+        width: 0px;
+        height: 0px;        
+    }
+    .ap_block > .col-12 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    #no_margin > .col-sm-6 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .price_span , .starting_price {
+        font-size: 15px;
+    }
+    .intro_text > h3 {
+        font-size: 20px;
+    }
+    .contact_right > iframe {
+        height: 250px;
+    }
+    
+}
+
+@media only screen and (min-width:768px) and (max-width:992px) {
+    #top_nav {
+        display: none;
+    }
+    #top_mobile {
+        display: block;
+    }
+    #contact_page {
+        margin: 0px;
+    }
+    .contact_us_form > form > .form-group {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .contact_us_form input, 
+    .contact_us_form textarea,
+    .contact_send_btn {
+        transform: translate(0);
+        margin-left:0px;
+    }
+}
